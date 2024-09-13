@@ -15,3 +15,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://rb.gy/bgoh0z"><img src="linkedin.png"></a>
 <a href="https://rb.gy/oppz38"><img src="instagram1.png"></a>
 <a href="https://mail.google.com/mail/u/0/"><img src="email.png"></a>
+
+<h2>My skill</h2>
+i am skilled in c , c++ , python , web development
