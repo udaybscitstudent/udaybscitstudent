@@ -12,12 +12,12 @@ udaybscitstudent/udaybscitstudent is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <head>
-  <link rel="stylesheet" href="boxicons.min.css">
-</head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+  </head>
 <body>
 <h1>connect with me</h1>
 <div>
 <a href=""><img>
-<a href=""><i class='bx bxl-linkedin-square' ></i></a>
+<a href=""><i class='bx bxl-linkedin-square'></i></a>
 </div>
 </body>
