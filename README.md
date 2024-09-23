@@ -14,10 +14,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>My skill</h2>
 <img height="80px" width="100px" src="c.png">
-<img src="c++.png">
-<img src="html.png">
-<img src="css.png">
-<img src="js.png">
+<img height="80px" width="100px" src="c++.png">
+<img height="80px" width="100px" src="html.png">
+<img height="80px" width="100px" src="css.png">
+<img height="80px" width="100px" src="js.png">
 <h1>connect with me</h1>
 <a href="https://rb.gy/bgoh0z"><img src="linkedin.png"></a>
 <a href="https://rb.gy/oppz38"><img src="instagram1.png"></a>
