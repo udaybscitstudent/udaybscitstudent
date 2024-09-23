@@ -13,13 +13,9 @@ udaybscitstudent/udaybscitstudent is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <h2>My skill</h2>
-<div style="display:flex; flex-wrap:wrap;">
-<img height="80px" width="100px" src="c.png">
-<img height="80px" width="100px" src="c++.png">
-<img height="100px" width="100px" src="html.png">
-<img height="100px" width="80px" src="css.png">
-<img height="120px" width="100px" src="js.png">
-</div>
+I am skilled in C , C++, HTML , CSS , JS ,python.
+<br><b>i'm also ready to explore new language</b>
+
 <h1>connect with me</h1>
 <a href="https://rb.gy/bgoh0z"><img src="linkedin.png"></a>
 <a href="https://rb.gy/oppz38"><img src="instagram1.png"></a>
