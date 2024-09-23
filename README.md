@@ -1,3 +1,12 @@
+<style>
+img{
+    height:100px;
+    width:80px;
+    /* display:flex;
+    justify-content:inline;
+    flex-wrap:wrap; */
+}
+</style>
 <h1 align="Center">Hi, i'm uday kumar</h1>
 
 - 👋 Hi, I’m uday kumar 
@@ -13,7 +22,11 @@ udaybscitstudent/udaybscitstudent is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <h2>My skill</h2>
-
+<img src="c.png">
+<img src="c++.png">
+<img src="html.png">
+<img src="css.png">
+<img src="js.png">
 <h1>connect with me</h1>
 <a href="https://rb.gy/bgoh0z"><img src="linkedin.png"></a>
 <a href="https://rb.gy/oppz38"><img src="instagram1.png"></a>
