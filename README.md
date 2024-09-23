@@ -12,6 +12,8 @@
 udaybscitstudent/udaybscitstudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2>My skill</h2>
+
 <h1>connect with me</h1>
 <a href="https://rb.gy/bgoh0z"><img src="linkedin.png"></a>
 <a href="https://rb.gy/oppz38"><img src="instagram1.png"></a>
