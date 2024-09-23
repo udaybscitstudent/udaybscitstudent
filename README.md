@@ -1,3 +1,6 @@
+<html>
+<head>
+<title>README.md</title>
 <style>
 img{
     height:100px;
@@ -7,6 +10,7 @@ img{
     flex-wrap:wrap; */
 }
 </style>
+<body>
 <h1 align="Center">Hi, i'm uday kumar</h1>
 
 - 👋 Hi, I’m uday kumar 
@@ -31,3 +35,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://rb.gy/bgoh0z"><img src="linkedin.png"></a>
 <a href="https://rb.gy/oppz38"><img src="instagram1.png"></a>
 <a href="#"><img src="email.png"></a>
+
+</body>
+</head>
+</html>
