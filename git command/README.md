@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About git</title>
-</head>
 <body>
     <h2><u>Git</u></h2>
     <p><b>What is Git:-</b>free and open source version control system. and it is tools that help to tracks changes in code.</p>
@@ -68,4 +61,3 @@
     <h3><u>forking</u></h3>
     <p><b>what is forking:-</b>A fork is a new repository that shares code and visibility salting with the original "upstream" repository.<br>Fork is a rough copy</p>
 </body>
-</html>
