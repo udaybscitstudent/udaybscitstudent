@@ -20,3 +20,4 @@ I am skilled in C , C++, HTML , CSS , JS ,python.
 <a href="https://rb.gy/bgoh0z"><img src="linkedin.png"></a>
 <a href="https://rb.gy/oppz38"><img src="instagram1.png"></a>
 <a href="#"><img src="email.png"></a>
+
