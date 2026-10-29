@@ -2,8 +2,6 @@
 
 # Hi there, I'm Uday Kumar 👋
 
-## 🚀 About Me
-
 * 🎓 B.Sc. IT Graduate
 * 💻 Practising Java programming and problem-solving
 * 🐍 Learning Python and exploring its applications
