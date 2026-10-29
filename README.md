@@ -15,13 +15,6 @@ Welcome to my GitHub profile! I'm passionate about programming, problem-solving,
 * 🌱 Continuously improving my programming skills
 * 🎯 Goal: To build a career in the IT industry
 
-## 📚 Current Learning
-
-* Java programming and Object-Oriented Programming
-* Data Structures and Algorithms
-* Python programming
-* SQL and database concepts
-
 <!-- end -->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uday9000kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-kumar-bb7746281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:UDAYKUMARRAJ2058@GMAIL.COM) 
