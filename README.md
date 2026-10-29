@@ -1,7 +1,17 @@
-# 💫 About Me:
-👤 I'm Uday Kumar.<br>🔭 I’m currently looking a platform where I can improve my skill.<br>🌱 I’m currently learning AI/ML and java.<br>💬 Ask me about project.
+<!-- start -->
 
+# Hi there, I'm Uday Kumar 👋
 
+## 🚀 About Me
+
+* 🎓 B.Sc. IT Graduate
+* 💻 Practising Java programming and problem-solving
+* 🐍 Learning Python and exploring its applications
+* 🗄️ Interested in SQL and database management
+* 🌱 Continuously improving my programming skills
+* 🎯 Goal: To build a career in the IT industry
+
+<!-- end -->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uday9000kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-kumar-bb7746281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:UDAYKUMARRAJ2058@GMAIL.COM) 
 
@@ -20,5 +30,19 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=udaybscitstudent&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- contacct links -->
+
+## 🌐 Connect With Me
+
+* **Portfolio:** [Visit My Portfolio](https://udaybscitstudent.github.io/myinfo/)
+* **LinkedIn:** [Connect With Me](https://linkedin.com/in/uday-kumar-bb7746281)
+* **GitHub:** [Explore My Repositories](https://github.com/udaybscitstudent)
+* **Email:** [iamuday2058@gmail.com](mailto:iamuday2058@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
