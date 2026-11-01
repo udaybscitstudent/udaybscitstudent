@@ -1,63 +1,245 @@
-<body>
-    <h2><u>Git</u></h2>
-    <p><b>What is Git:-</b>free and open source version control system. and it is tools that help to tracks changes in code.</p>
-    <p><B>what is Github:-</B>Github is a platform where we host repositories online.</p>
-    <h2>Some useful Git command</h2>
-    <p><b><u>configuring Git</u></b></p>
---> Git config --global username "name of user/uday"<br>
---> git config --global user_email "email of user/uday@gmail.com"<br>
---> git config --list <b>(show name and username)</b><br>
-    <p><b><u>cloning:-</u></b>cloning basically used to access all all repositories and project in local system is called cloning.</p>
-    cmd:- <b>git clone links</b>
-    <p><b><u>Status:-</u></b>display the status of the code.</p>
-    cmd:- <b>git status</b>
-    <p><u><b>Add:-</b></u>adds new or changed files in your working directory to the git staging area.</p>
-    cmd:-<b>git add filename </b>(it is used to add particular files)
-    <br>or<br>
-    cmd:- <b>git add .</b>(it is used for add all files)
-    <p><b><u>commit:-</u></b>it is the record of change</p>
-    cmd:- <b>git commit -m "some message"</b>
-    <p><b><u>push:-</u></b>upload local repo content to remote repo.</p>
-    cmd :- <b>git push origin main</b>
-    <br>or<br>
-    you can also use<br>
-    cmd :- <b>git push -u origin main</b> (you can write at once after that  you can use)<br>
-    cmd:- <b>git push</b>
-    <p><b><u>git pull:-</u></b>any changes to come github to local git.</p>
-    cmd:- <b>git pull origin main</b>
-    <h2><u>init</u></h2>
-    <p><b><u>init:</u>-</b>used to create a new repository.</p>
-    cmd:- <b>git init</b>
-    <br>cmd:-<b>git remote add origin ...links...</b><br>
-    cmd:-<b>git remote -v</b>(to verify remote).
-    <h2><u>Branch commands</u></h2>
-    cmd:- <b>git branch </b>(to check branch).<br>
-    cmd:- <b>git branch -m main</b>(to rename branch)<br>
-    cmd:- <b>git checkout branchname</b>(to navigate).<br>
-    cmd:- <b>git checkout -b (new branch name)</b>(create new branch and change).<br>
-    cmd:- <b>git branch -d branchname</b>(to delete branch).
-    <br>
-    <br><b><u>merge and differentiate</u></b><br><br>
-    cmd:- <b>git diff branchname </b>(to compare commits, branches , and files and more).<br>
-    cmd:- <b>git merge branchname</b>(to merge two branches).
-    <p><b><u>merge conflicts</u></b>:- an event that takes place when git is unable to automatically resolve difference in code between two commits.</p>
-    if you have occur conflicts , first you resolve your code then you can follow these steps.<br>
-    1. <b>add</b><br>
-    2. <b>commit</b><br>
-    3. <b>push</b><br>
-    <h3><u>show all commits</u></h3>
-    cmd:- <b>git log </b> (to show all commit)
-    <h2><u>fixing mistake</u></h2>
-    <b>case 1. staged changes (git add .)</b>
-    <br>
-    cmd:- git reset (for all file)<br>
-    cmd:- git reset filename(for single file).<br>
-    <br>
-    <b>case 2. committed changes (git commit -m " message ")</b>
-    <br>
-    cmd:- git reset HEAD~1 (for one commit).
-    cmd:- git reset commithash<br>
-    cmd:- git reset --hard commithash
-    <h3><u>forking</u></h3>
-    <p><b>what is forking:-</b>A fork is a new repository that shares code and visibility salting with the original "upstream" repository.<br>Fork is a rough copy</p>
-</body>
+<div align="center">
+
+# 🚀 Git & GitHub Commands
+
+### 📚 Complete Beginner's Notes
+
+<img src="https://img.shields.io/badge/Git-Version_Control-orange?logo=git" />
+<img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" />
+<img src="https://img.shields.io/badge/Level-Beginner-green" />
+
+</div>
+
+---
+
+## 🔷 What is Git?
+
+**Git:** A free and open-source distributed version control system used to track changes in source code.
+
+## 🔷 What is GitHub?
+
+**GitHub:** An online platform where developers host repositories, manage projects, and collaborate with others.
+
+---
+
+## 🟢 1. Configuring Git
+
+| Command                                           | Description                |
+| ------------------------------------------------- | -------------------------- |
+| `git config --global user.name "Uday"`            | Set your Git username.     |
+| `git config --global user.email "uday@gmail.com"` | Set your Git email.        |
+| `git config --list`                               | Display Git configuration. |
+
+## 🔵 2. Cloning
+
+**Cloning:** Creating a local copy of an existing remote repository.
+
+```bash
+git clone repository_url
+```
+
+## 🟡 3. Status
+
+**Status:** Displays the current status of files in the working directory and staging area.
+
+```bash
+git status
+```
+
+## 🟠 4. Add
+
+**Add:** Adds new or modified files from the working directory to the staging area.
+
+```bash
+git add filename
+```
+
+*Add a particular file.*
+
+```bash
+git add .
+```
+
+*Add all new and modified files.*
+
+## 🟣 5. Commit
+
+**Commit:** Records staged changes in the local repository.
+
+```bash
+git commit -m "your message"
+```
+
+## 🔴 6. Push
+
+**Push:** Uploads local repository commits to a remote repository.
+
+```bash
+git push origin main
+```
+
+Or use:
+
+```bash
+git push -u origin main
+```
+
+After setting the upstream branch, you can simply use:
+
+```bash
+git push
+```
+
+## 🟤 7. Pull
+
+**Pull:** Downloads changes from a remote repository and integrates them into the current local branch.
+
+```bash
+git pull origin main
+```
+
+---
+
+## 🟢 8. Init
+
+**Init:** Initializes a new Git repository in the current directory.
+
+```bash
+git init
+```
+
+**Connect local repository to GitHub:**
+
+```bash
+git remote add origin repository_url
+```
+
+**Verify remote repository:**
+
+```bash
+git remote -v
+```
+
+---
+
+## 🔵 9. Branch Commands
+
+| Command                      | Description                        |
+| ---------------------------- | ---------------------------------- |
+| `git branch`                 | Display available local branches.  |
+| `git branch -m main`         | Rename the current branch to main. |
+| `git checkout branchname`    | Switch to another branch.          |
+| `git checkout -b branchname` | Create and switch to a new branch. |
+| `git branch -d branchname`   | Delete a merged branch.            |
+
+---
+
+## 🟡 10. Merge and Difference
+
+**Diff:** Used to compare changes between commits, branches, and files.
+
+```bash
+git diff branchname
+```
+
+**Merge:** Combines changes from another branch into the current branch.
+
+```bash
+git merge branchname
+```
+
+## 🟠 11. Merge Conflicts
+
+**Merge Conflict:** An event that occurs when Git cannot automatically resolve differences between two branches.
+
+**Steps to resolve merge conflicts:**
+
+1. Open the conflicting file.
+2. Resolve the conflicting code manually.
+3. Add the resolved files.
+4. Commit the changes.
+5. Push the changes to GitHub.
+
+```bash
+git add .
+git commit -m "Resolved merge conflicts"
+git push origin main
+```
+
+---
+
+## 🟣 12. Show All Commits
+
+**Log:** Displays the commit history of the repository.
+
+```bash
+git log
+```
+
+**Show commits in one line:**
+
+```bash
+git log --oneline
+```
+
+---
+
+## 🔴 13. Fixing Mistakes
+
+### Case 1: Staged Changes (`git add .`)
+
+Remove all staged changes:
+
+```bash
+git reset
+```
+
+Remove a particular file from staging:
+
+```bash
+git reset filename
+```
+
+### Case 2: Committed Changes (`git commit`)
+
+Undo the latest commit:
+
+```bash
+git reset HEAD~1
+```
+
+Reset to a specific commit:
+
+```bash
+git reset commit_hash
+```
+
+Reset and discard changes permanently:
+
+```bash
+git reset --hard commit_hash
+```
+
+⚠️ **Warning:** `git reset --hard` can permanently delete uncommitted changes.
+
+---
+
+## 🟤 14. Forking
+
+**Forking:** Creating your own copy of another developer's repository under your GitHub account.
+
+A fork allows you to modify someone else's project without changing the original repository.
+
+---
+
+<div align="center">
+
+### 👨‍💻 Author
+
+**Uday Kumar**
+
+[GitHub](https://github.com/udaybscitstudent) • [Portfolio](https://udaybscitstudent.github.io/myinfo/)
+
+⭐ If you find these notes helpful, don't forget to give this repository a star!
+
+</div>
